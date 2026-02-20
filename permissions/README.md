@@ -1,1 +1,1 @@
-Permissions project for Holberton School.
+Shell permissions project
