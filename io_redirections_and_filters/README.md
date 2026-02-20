@@ -1,4 +1,2 @@
 # I/O Redirections and Filters
-
-0-hello_world: prints "Hello, World" followed by a new line.
-1-confused_smiley: prints a confused smiley "(Ôo)'.
+This project contains shell scripts about redirections and filters
