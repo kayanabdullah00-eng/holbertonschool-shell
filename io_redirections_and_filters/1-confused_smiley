@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "\"(\uooD4o)'\n"
+echo $'\"(\xD4o)\''
